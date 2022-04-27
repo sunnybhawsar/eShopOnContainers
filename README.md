@@ -2,9 +2,9 @@
    <img src="https://github.com/dotnet-architecture/eShopOnContainers/raw/dev/img/eshop_logo.png" alt="eShop logo" title="eShopOnContainers" align="right" height="60" />
 </a>
 
-# .NET Microservices Sample Reference Application
+# .NET Microservices Application
 
-Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers.
+.NET Core application, based on a simplified microservices architecture and Docker containers.
 
 ## SPA Application (Angular)
 
